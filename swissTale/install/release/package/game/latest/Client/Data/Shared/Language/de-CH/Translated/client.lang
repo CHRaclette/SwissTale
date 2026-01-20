@@ -458,7 +458,6 @@ benchCategories.Arcane_Portals = Portale
 benchCategories.Alchemy_Potions = Tränke
 benchCategories.Alchemy_Bombs = Bomben
 benchCategories.Template = Vorlage
-
 # === builderTools ===
 builderTools.name = Erbauer-Werkzeuge
 builderTools.selectTool = Werkzeug auswählen
