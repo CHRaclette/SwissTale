@@ -1,8 +1,6 @@
 # HytaleSwissGermanTranslation  
 **Swiss German (Schwiizerdütsch) Language Pack for Hytale**
 
-Contribute to this project → **GITHUB** ← click
-
 ---
 
 ## Description
