@@ -3570,49 +3570,9 @@ io.gamepackethandler.sceneUpdateSent = Szenen-Update a alle Spieler gesendet
 io.gamepackethander.sceneUpdateSentToPlayer = Szenen-Update a {name} gesendet
 io.gamepackethandler.playerNotFound = Spieler mit em Namen {name} het chönne nöd gfunde wärde
 
-# === itemSets ===
 
-itemSets.Tool_Thorium = Thorium-Werkzeuge
-itemSets.Tool_Stone = Steinwerkzeuge
-itemSets.Tool_Iron = Eisenwerkzeuge
-itemSets.Tool_Cobalt = Kobalt-Werkzeuge
-itemSets.Tool_Copper = Kupferwerkzeuge
-itemSets.Tool_Wood = Holzwerkzeuge
-itemSets.Bones = Knochenblöcke
-itemSets.Soil_Dirt_Brick = Erdziegelblöcke
-itemSets.Soil_Brick_Snow = Schnee-Ziegelblöcke
-itemSets.Rock_Shale_Brick = Schiefer-Ziegelblöcke
-itemSets.Rock_Gold_Brick = Gold-Ziegelblöcke
-itemSets.Rock_Sandstone_White_Brick = Weisse Sandsteinziegelblöcke
-itemSets.Rock_Sandstone_Brick = Sandsteinziegelblöcke
-itemSets.Rock_Sandstone_Red_Brick = Rote Sandsteinziegelblöcke
-itemSets.Rock_Marble_Brick = Marmor-Ziegelblöcke
-itemSets.Rock_Clay_Aqua_Brick = Tonziegelblöcke
-itemSets.Rock_Stone_Aqua_Brick = Aqua-Ziegelblöcke
-itemSets.Rock_Basalt_Brick = Basalt-Ziegelblöcke
-itemSets.Rock_Quartzite_Brick = Quarzit-Ziegelblöcke
-itemSets.Rock_Stone_Brick = Steinziegelblöcke
-itemSets.Rock_Stone_Cobble = Stein-Bruchsteinblöcke
-itemSets.Rock_Quartzite_Cobble = Quarzit-Bruchsteinblöcke
-itemSets.Rock_Basalt_Cobble = Basalt-Bruchsteinblöcke
-itemSets.Rock_Marble_Cobble = Marmor-Bruchsteinblöcke
-itemSets.Rock_Shale_Cobble = Schiefer-Bruchsteinblöcke
-itemSets.Rock_Sandstone_Red_Cobble = Rote Bruchsteinblöcke
-itemSets.Rock_Sandstone_Cobble = Sandstein-Bruchsteinblöcke
-itemSets.Rock_Sandsstone_White_Cobble = Weisse Bruchsteinblöcke
-itemSets.Rock_Volcanic = Vulkansteinblöcke
-itemSets.Wood_Blackwood_Planks = Schwarzholzblöcke
-itemSets.Wood_Darkwood_Planks = Dunkelholzblöcke
-itemSets.Wood_Deadwood_Planks = Totholzblöcke
-itemSets.Wood_Drywood_Planks = Trockenholzblöcke
-itemSets.Wood_Goldenwood_Planks = Goldholzblöcke
-itemSets.Wood_Greenwood_Planks = Grünholzblöcke
-itemSets.Wood_Hardwood_Planks = Hartholzblöcke
-itemSets.Wood_Lightwood_Planks = Hellholzblöcke
-itemSets.Wood_Redwood_Planks = Redwood-Blöcke
-itemSets.Wood_Softwood_Planks = Weichholzblöcke
-itemSets.Wood_Tropicalwood_Planks = Tropenholzblöcke
-itemSets.Furniture_Tavern = Tavernenmöbel
+
+
 
 # === items === 
 
@@ -7885,3 +7845,4 @@ universe.backup.error = Beim Erstellen eimes Backups isch en Fehler aufgetreten:
 
 world.spawn.notSet = Welt '{worldName}' hät kei gesetzten Spawnpunkt!
 world.notFound = Welt '{worldName}' het chönne nöd gfunde wärde!
+=== itemSets ===
